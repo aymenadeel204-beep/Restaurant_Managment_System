@@ -1,0 +1,15 @@
+C:\Users\AYMEN\source\repos\RestaurantSystem\RestaurantSystem.Data\bin\Debug\net9.0\RestaurantSystem.Data.deps.json
+C:\Users\AYMEN\source\repos\RestaurantSystem\RestaurantSystem.Data\bin\Debug\net9.0\RestaurantSystem.Data.dll
+C:\Users\AYMEN\source\repos\RestaurantSystem\RestaurantSystem.Data\bin\Debug\net9.0\RestaurantSystem.Data.pdb
+C:\Users\AYMEN\source\repos\RestaurantSystem\RestaurantSystem.Data\bin\Debug\net9.0\RestaurantSystem.Domain.dll
+C:\Users\AYMEN\source\repos\RestaurantSystem\RestaurantSystem.Data\bin\Debug\net9.0\RestaurantSystem.Domain.pdb
+C:\Users\AYMEN\source\repos\RestaurantSystem\RestaurantSystem.Data\obj\Debug\net9.0\RestaurantSystem.Data.csproj.AssemblyReference.cache
+C:\Users\AYMEN\source\repos\RestaurantSystem\RestaurantSystem.Data\obj\Debug\net9.0\RestaurantSystem.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AYMEN\source\repos\RestaurantSystem\RestaurantSystem.Data\obj\Debug\net9.0\RestaurantSystem.Data.AssemblyInfoInputs.cache
+C:\Users\AYMEN\source\repos\RestaurantSystem\RestaurantSystem.Data\obj\Debug\net9.0\RestaurantSystem.Data.AssemblyInfo.cs
+C:\Users\AYMEN\source\repos\RestaurantSystem\RestaurantSystem.Data\obj\Debug\net9.0\RestaurantSystem.Data.csproj.CoreCompileInputs.cache
+C:\Users\AYMEN\source\repos\RestaurantSystem\RestaurantSystem.Data\obj\Debug\net9.0\Restaura.AE9DC729.Up2Date
+C:\Users\AYMEN\source\repos\RestaurantSystem\RestaurantSystem.Data\obj\Debug\net9.0\RestaurantSystem.Data.dll
+C:\Users\AYMEN\source\repos\RestaurantSystem\RestaurantSystem.Data\obj\Debug\net9.0\refint\RestaurantSystem.Data.dll
+C:\Users\AYMEN\source\repos\RestaurantSystem\RestaurantSystem.Data\obj\Debug\net9.0\RestaurantSystem.Data.pdb
+C:\Users\AYMEN\source\repos\RestaurantSystem\RestaurantSystem.Data\obj\Debug\net9.0\ref\RestaurantSystem.Data.dll
